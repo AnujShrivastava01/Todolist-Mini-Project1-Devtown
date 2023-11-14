@@ -12,4 +12,4 @@
 
 # step 5 type "npm start" and your code will run on browser automatically .
 
-# Thankyo
+# Thankyou
