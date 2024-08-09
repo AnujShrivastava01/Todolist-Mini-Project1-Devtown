@@ -1,4 +1,4 @@
-# This Todolist Project is created by me (Anuj Shrivastava) with the help of Devtown FWD 7 days Bootcamp and few internet sources . I hope you will run this and try it
+# This Todolist Project is created by me with the help of Devtown FWD 7 days Bootcamp and few internet sources . I hope you will run this and try it
 
 # to run this
 
